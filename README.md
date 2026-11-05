@@ -3,7 +3,8 @@
 An AI-powered web app that turns a doctor's consultation notes into a structured visit summary,
 next steps for the doctor, and a patient-friendly email draft, streamed live as the model writes.
 
-**Live demo:** https://saas-liard-five.vercel.app (sign in to try the generator)
+**Demo site:** https://saas-liard-five.vercel.app — the site and sign-in are live, but generation is
+currently disabled because the OpenAI API key has been revoked.
 
 ![MediNotes Pro landing page](docs/demo.png)
 
@@ -58,6 +59,13 @@ Then start the app with `npm run dev`.
 
 Next.js · React · TypeScript · Tailwind CSS · FastAPI · Python · OpenAI API · Server-Sent Events ·
 Clerk · Docker · AWS App Runner · Vercel
+
+## Acknowledgements
+
+Built while following the Udemy course
+[Generative and Agentic AI in Production](https://www.udemy.com/course/generative-and-agentic-ai-in-production/).
+The course provided the project idea and overall structure; this repository contains my own
+implementation and deployments to Vercel and AWS App Runner.
 
 ## Disclaimer
 
