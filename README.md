@@ -64,8 +64,8 @@ Clerk · Docker · AWS App Runner · Vercel
 
 Built while following the Udemy course
 [Generative and Agentic AI in Production](https://www.udemy.com/course/generative-and-agentic-ai-in-production/).
-The course provided the project idea and overall structure; this repository contains my own
-implementation and deployments to Vercel and AWS App Runner.
+The course provided the project idea, structure, and guided code; I built, configured, and deployed
+this version to Vercel and AWS App Runner.
 
 ## Disclaimer
 
